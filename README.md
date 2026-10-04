@@ -1,4 +1,4 @@
-# syam-apk-release
+€ syam-apk-release
 
 Repo rilis APK SYAM (BASE SYAM). Aplikasi cek versi terbaru dari sini
 (`GET /releases/latest`), lalu unduh & pasang APK-nya langsung dari dalam app.
